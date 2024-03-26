@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "dnscache": "^1.0.2",
-    "express": "^4.16.4",
+    "express": "^4.19.2",
     "node-fetch": "^2.3.0"
   },
   "gitHead": "c7ea222855aef2ca7a011e96171011bbc5a7c92c"
