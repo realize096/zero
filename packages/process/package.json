@@ -6,9 +6,9 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "compression": "^1.7.3",
-    "express": "^4.16.4",
+    "express": "^4.21.1",
     "node-fetch": "^2.3.0",
-    "youch": "^2.0.10",
+    "youch": "^3.3.4",
     "youch-terminal": "^1.0.0",
     "zero-express-session": "^1.1.17"
   },
